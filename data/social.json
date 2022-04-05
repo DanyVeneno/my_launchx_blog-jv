@@ -1,14 +1,14 @@
 {
   "links": [
     {
-      "name": "twitter",
-      "url": "https://twitter.com/zerostaticio",
-      "image": "images/social/twitter.svg"
+      "name": "Daniel Vallejo",
+      "url": "https://twitter.com/VenenoDigital",
+      "image": "https://cdn.worldvectorlogo.com/logos/twitter-6.svg"
     },
     {
-      "name": "github",
-      "url": "https://github.com/zerostaticthemes",
-      "image": "images/social/github.svg"
+      "name": "DanyVeneno",
+      "url": "https://github.com/DanyVeneno",
+      "image": "https://cdn.worldvectorlogo.com/logos/github-icon-1.svgg"
     }
   ]
 }
