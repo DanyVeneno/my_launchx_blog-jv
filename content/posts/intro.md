@@ -4,6 +4,8 @@ date: 2022-02-21T18:16:21-06:00
 description: 'Este es mi primer post de la travesía en la Misión de Backend con Node JS de Launch X.'
 ---
 
+
+
 Para mi y por experiencia adquirida no basta con trabajar solo por un intercambio de tiempo por dinero.
 Ofrecer productos y/o servicios tiene una gran responsabilidad que debe cumplir para mi tres fases que no 
 podemos pasar por alto y estas son:
