@@ -8,7 +8,7 @@ Ofrecer productos y/o servicios tiene una gran responsabilidad que debe cumplir 
 podemos pasar por alto y estas son:
 
 
-Cuando piensas en desarrollar en este caso una herramienta para una organización un banco una dependencia de gobierno
+Cuando piensas en desarrollar en este caso una herramienta para una organización un banco, una dependencia de gobierno,
 cualquier institución en la cúal está integrada por seres humanos y voy a citar aquí a Abraham Maslow y su piramide 
 apesar que ya tiene algunas décadas que esta persona implemento esta teoría para mi sigue estando muy vigente.
 
@@ -82,7 +82,9 @@ That day we will have evolved as human beings
 And regarding the technical bases that we are acquiring; as long as we have the proper training to believe in ourselves over time we will
 to dominate the tools that we propose to use or to know my personal methodology is (Think it, Say it, Do it).
 
-Well, I have just described the mission of being part of my business that corresponds a lot to my person and my character since I have lived and seen many unpleasant things that humans do for not having good critical thinking and I know that you do not acquire it overnight. in the morning but we need more environments and projects like @innovaccionvirtual we need to put the floor even only then we will reach unity and not identity.
+Well, I have just described the mission of being part of my business that corresponds a lot to my person and my character since I have lived
+and seen many unpleasant things that humans do for not having good critical thinking and I know that you do not acquire it overnight. in the
+morning but we need more environments and projects like @innovaccionvirtual we need to put the floor even only then we will reach unity and not identity.
 
 
 That's what the video game I'm about to finish is about, an ode to Knowledge.
