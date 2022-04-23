@@ -3,7 +3,7 @@ title: "Mi metodologia de aprendizaje"
 date: 2022-04-13
 description: 'LaunchX e Innovacción Virtual | Mi experiencia del recorrido'
 ---
-# :pencil: Mi ruta de aprendizaje / My learning path
+# 📝 Mi ruta de aprendizaje / My learning path
 
 
 ## Elaborando 
@@ -32,7 +32,7 @@ La pregunta es:
 > Nota: *Aveces caemos en lo absurdo siempre hay que ver mas alla de lo evidente*.
 
 
-## El punto
+##  📓  El punto
 
 
 En la actualidad ya no veo un pizarrón ni veo a una mujer explicando algún tema, en la actualidad desde hace casi 20 años la forma en la cual accedo a información es a través de un monitor en donde he leído libros, en donde  veo películas, series, caricaturas, documentales en donde he aprendido a desarrollar ó adaptarme a esta nueva forma; Esa es mi forma de obtener información y en la actualidad creo que aplica para todas las personas pero hay algo más.
@@ -40,14 +40,14 @@ En la actualidad ya no veo un pizarrón ni veo a una mujer explicando algún tem
 Según el psiquiatra estadounidense [-William Glasser-](https://es.wikipedia.org/wiki/William_Glasser) que desarrolló la teoría de  *causa y efecto*, tambien autor de la *teoria de la eleccion*. Afirma que la mejor forma de retener información y aprender u obtener conocimiento es cuando explicamos algo a alguien, algunas de las metodologías relacionadas con este punto son las siguientes:
 
 <details>
- <summary>Visual</summary>
-  <p>El Aprendizaje Visual se define como un método de enseñanza-aprendizaje que utiliza un conjunto de diagramas o gráficos tanto para representar información como para trabajar con ideas y conceptos, que al utilizarlos ayudan a pensar más efectivamente.</p>
+<summary>Visual</summary>
+El Aprendizaje Visual se define como un método de enseñanza-aprendizaje que utiliza un conjunto de diagramas o gráficos tanto para representar información como         para trabajar con ideas y conceptos, que al utilizarlos ayudan a pensar más efectivamente.
 </details>
 
 <details>
 <summary>Auditivo</summary>
-<p>Este metodo permite aprender cuando recibe las explicaciones oralmente y cuando pueden hablar y explicar
-esa información a otra persona.</p>
+Este metodo permite aprender cuando recibe las explicaciones oralmente y cuando pueden hablar y explicar
+esa información a otra persona.
 </details>
 
 <details>
@@ -67,7 +67,7 @@ video: *[La Teoría de la Elección de Glasser](https://www.youtube.com/watch?v=
 
 Apartir de aqui nace o se desprenden otros temas que son importantes que debemos tomar en cuenta para dirigirnos y relacionarnos **(Comunicarnos)** dentro de cualquier plataforma de internet en la que te expreses. que vamos a tocar en otro post.
 
-## :pencil: Conclusión
+##  🥑 Conclusión
 
 
 Recuerden estamos viviendo en un mundo totalmente disruptivo y estamos coexistiendo
@@ -88,7 +88,7 @@ Y todas estas generaciones crecimos con diferentes contextos **_es por eso que n
 Bien, respondiendo a el titulo del post mi ruta de aprendizaje no es diferente de la de los demás son las actitudes y aptitudes las que definen tu personalidad
 y estas las definen la experiencia adquirida atravez de los errores que cometemos y para cometer errores hay que **actuar** 
 
-## :guitar: Postdata
+## 🎸 Postdata
 
 Para escribir este articulo necesite los siguientes elementos:
 
