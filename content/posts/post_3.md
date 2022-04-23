@@ -32,7 +32,7 @@ La pregunta es:
 > Nota: *Aveces caemos en lo absurdo siempre hay que ver mas alla de lo evidente*.
 
 
-##:notebook: El punto
+##  :notebook:  El punto
 
 
 En la actualidad ya no veo un pizarrón ni veo a una mujer explicando algún tema, en la actualidad desde hace casi 20 años la forma en la cual accedo a información es a través de un monitor en donde he leído libros, en donde  veo películas, series, caricaturas, documentales en donde he aprendido a desarrollar ó adaptarme a esta nueva forma; Esa es mi forma de obtener información y en la actualidad creo que aplica para todas las personas pero hay algo más.
@@ -43,11 +43,13 @@ Según el psiquiatra estadounidense [-William Glasser-](https://es.wikipedia.org
 <summary>Visual</summary>
 <p>El Aprendizaje Visual se define como un método de enseñanza-aprendizaje que utiliza un conjunto de diagramas o gráficos tanto para representar información como para trabajar con ideas y conceptos, que al utilizarlos ayudan a pensar más efectivamente.</p>
 </details>
+
 <details>
 <summary>Auditivo</summary>
 <p>Este metodo permite aprender cuando recibe las explicaciones oralmente y cuando pueden hablar y explicar
 esa información a otra persona.</p>
 </details>
+
 <details>
 <summary>Kinestésico</summary>
 <p>Esta metodologia nos remite a la necesidad de las experiencias corporales sensaciones y movimientos</p>
