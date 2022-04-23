@@ -6,7 +6,7 @@ description: 'LaunchX e Innovacción Virtual | Mi experiencia del recorrido'
 # :pencil: Mi ruta de aprendizaje / My learning path
 
 
-##  :bulb: Elaborando 
+## Elaborando 
 
 En mi época de estudiante tomando en cuenta que en la actualidad tengo 43 Años ósea hace casi 30 años
 me recuerdo cargando una mochila llena de libros y cuadernos todos los días, sentado en una banca **_repitiendo_** letras de forma **_hablada_** y **_escrita_**  entendiendo conceptos
@@ -32,7 +32,7 @@ La pregunta es:
 > Nota: *Aveces caemos en lo absurdo siempre hay que ver mas alla de lo evidente*.
 
 
-##  :notebook:  El punto
+## El punto
 
 
 En la actualidad ya no veo un pizarrón ni veo a una mujer explicando algún tema, en la actualidad desde hace casi 20 años la forma en la cual accedo a información es a través de un monitor en donde he leído libros, en donde  veo películas, series, caricaturas, documentales en donde he aprendido a desarrollar ó adaptarme a esta nueva forma; Esa es mi forma de obtener información y en la actualidad creo que aplica para todas las personas pero hay algo más.
@@ -40,8 +40,8 @@ En la actualidad ya no veo un pizarrón ni veo a una mujer explicando algún tem
 Según el psiquiatra estadounidense [-William Glasser-](https://es.wikipedia.org/wiki/William_Glasser) que desarrolló la teoría de  *causa y efecto*, tambien autor de la *teoria de la eleccion*. Afirma que la mejor forma de retener información y aprender u obtener conocimiento es cuando explicamos algo a alguien, algunas de las metodologías relacionadas con este punto son las siguientes:
 
 <details>
-<summary>Visual</summary>
-<p>El Aprendizaje Visual se define como un método de enseñanza-aprendizaje que utiliza un conjunto de diagramas o gráficos tanto para representar información como para trabajar con ideas y conceptos, que al utilizarlos ayudan a pensar más efectivamente.</p>
+ <summary>Visual</summary>
+  <p>El Aprendizaje Visual se define como un método de enseñanza-aprendizaje que utiliza un conjunto de diagramas o gráficos tanto para representar información como para trabajar con ideas y conceptos, que al utilizarlos ayudan a pensar más efectivamente.</p>
 </details>
 
 <details>
