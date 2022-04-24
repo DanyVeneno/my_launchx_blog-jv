@@ -39,25 +39,32 @@ En la actualidad ya no veo un pizarrón ni veo a una mujer explicando algún tem
 
 Según el psiquiatra estadounidense [-William Glasser-](https://es.wikipedia.org/wiki/William_Glasser) que desarrolló la teoría de  *causa y efecto*, tambien autor de la *teoria de la eleccion*. Afirma que la mejor forma de retener información y aprender u obtener conocimiento es cuando explicamos algo a alguien, algunas de las metodologías relacionadas con este punto son las siguientes:
 
+### ✔️ Metodologías
 
 <details>
 <summary>Visual</summary>
+ 
 - El Aprendizaje Visual se define como un método de enseñanza-aprendizaje que utiliza un conjunto de diagramas o gráficos tanto para representar información como         para trabajar con ideas y conceptos, que al utilizarlos ayudan a pensar más efectivamente. 
+ 
 </details>
 
 ---
 
 <details>
 <summary>Auditivo</summary> 
+ 
  - Este metodo permite aprender cuando recibe las explicaciones oralmente y cuando pueden hablar y explicar
    esa información a otra persona. 
+ 
 </details>
 
 ---
 
 <details>
 <summary>Kinestésico</summary> 
+ 
 - Esta metodologia nos remite a la necesidad de las experiencias corporales sensaciones y movimientos  
+ 
 </details>
 
 ---
