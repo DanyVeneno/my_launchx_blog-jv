@@ -44,30 +44,27 @@ Según el psiquiatra estadounidense [-William Glasser-](https://es.wikipedia.org
 ---
 
 <details>
- <summary>Visual</summary>
- 
-- El Aprendizaje Visual se define como un método de enseñanza-aprendizaje que utiliza un conjunto de diagramas o gráficos tanto para representar información como         para trabajar con ideas y conceptos, que al utilizarlos ayudan a pensar más efectivamente.
- 
+<summary>Visual</summary>
+##### Visual
+- El Aprendizaje Visual se define como un método de enseñanza-aprendizaje que utiliza un conjunto de diagramas o gráficos tanto para representar información como         para trabajar con ideas y conceptos, que al utilizarlos ayudan a pensar más efectivamente. 
 </details>
 
 ---
 
 <details>
- <summary>Auditivo</summary> 
- 
+<summary>Auditivo</summary> 
+##### Auditivo
 - Este metodo permite aprender cuando recibe las explicaciones oralmente y cuando pueden hablar y explicar
    esa información a otra persona. 
- 
 </details>
 
 ---
 
 <details>
- <summary>Kinestésico</summary>
- 
-- Esta metodologia nos remite a la necesidad de las experiencias corporales sensaciones y movimientos  
- 
- </details>
+<summary>Kinestésico</summary>
+##### Kinestésico 
+- Esta metodologia nos remite a la necesidad de las experiencias corporales sensaciones y movimientos   
+</details>
 
 ---
 
