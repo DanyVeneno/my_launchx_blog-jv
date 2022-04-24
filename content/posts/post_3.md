@@ -42,10 +42,11 @@ Según el psiquiatra estadounidense [-William Glasser-](https://es.wikipedia.org
 #### ✔️ Metodologías
 
 
+
 <details>
 <summary>Visual</summary>
  
-- El Aprendizaje Visual se define como un método de enseñanza-aprendizaje que utiliza un conjunto de diagramas o gráficos tanto para representar información como         para trabajar con ideas y conceptos, que al utilizarlos ayudan a pensar más efectivamente.
+ - El Aprendizaje Visual se define como un método de enseñanza-aprendizaje que utiliza un conjunto de diagramas o gráficos tanto para representar información como         para trabajar con ideas y conceptos, que al utilizarlos ayudan a pensar más efectivamente.
  
 </details>
 
@@ -54,7 +55,7 @@ Según el psiquiatra estadounidense [-William Glasser-](https://es.wikipedia.org
 <details>
 <summary>Auditivo</summary> 
  
-- Este metodo permite aprender cuando recibe las explicaciones oralmente y cuando pueden hablar y explicar
+ - Este metodo permite aprender cuando recibe las explicaciones oralmente y cuando pueden hablar y explicar
    esa información a otra persona. 
  
 </details>
@@ -64,7 +65,7 @@ Según el psiquiatra estadounidense [-William Glasser-](https://es.wikipedia.org
 <details>
 <summary>Kinestésico</summary> 
  
-- Esta metodologia nos remite a la necesidad de las experiencias corporales sensaciones y movimientos  
+ - Esta metodologia nos remite a la necesidad de las experiencias corporales sensaciones y movimientos  
  
 </details>
 
@@ -94,7 +95,7 @@ con estas generaciones de **Humanos**. :
 |:------:|:-----:|:------:|:------:|:---:|
 |1946-1964|1965-1981|1981-1996|1997-2012|2013|
 
-
+---
 
 Y entonces todo esto que tiene que ver con la forma de aprendizaje así como sus metodologías, es gracias al conocimiento que se da a través
 de los años y de la existencia del ser humano no es fácil definir 
