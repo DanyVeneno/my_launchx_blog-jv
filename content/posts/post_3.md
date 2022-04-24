@@ -43,30 +43,33 @@ Según el psiquiatra estadounidense [-William Glasser-](https://es.wikipedia.org
 
 <details>
 <summary>Visual</summary>
-<br>
-<br><br>
+ 
 <pre>
-El Aprendizaje Visual se define como un método de enseñanza-aprendizaje que utiliza un conjunto de diagramas o gráficos tanto para representar información como         para trabajar con ideas y conceptos, que al utilizarlos ayudan a pensar más efectivamente.
-
+  El Aprendizaje Visual se define como un método de enseñanza-aprendizaje que utiliza un conjunto de diagramas o gráficos tanto para representar información como         para trabajar con ideas y conceptos, que al utilizarlos ayudan a pensar más efectivamente.
 </pre>
+ 
 </details>
 
 ---
 
 <details>
- <summary>Auditivo</summary>
-  Este metodo permite aprender cuando recibe las explicaciones oralmente y cuando pueden hablar y explicar
-  esa información a otra persona.
+<summary>Auditivo</summary>
+ 
+   Este metodo permite aprender cuando recibe las explicaciones oralmente y cuando pueden hablar y explicar
+   esa información a otra persona.
+ 
 </details>
 
 ---
 
 <details>
- <summary>Kinestésico</summary>
-  Esta metodologia nos remite a la necesidad de las experiencias corporales sensaciones y movimientos
+<summary>Kinestésico</summary>
+ 
+   Esta metodologia nos remite a la necesidad de las experiencias corporales sensaciones y movimientos 
+ 
 </details>
 
-
+---
 
 Y esto lo podemos ver en internet todos los dias simplemente hay que practicar la observación chequense este
 video: *[La Teoría de la Elección de Glasser](https://www.youtube.com/watch?v=ATY-uohVunE&ab_channel=ISEP)*.
