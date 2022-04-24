@@ -41,10 +41,10 @@ Según el psiquiatra estadounidense [-William Glasser-](https://es.wikipedia.org
 
 #### ✔️ Metodologías
 
-
+---
 
 <details>
-  <summary>Visual</summary>
+ <summary>Visual</summary>
  
 - El Aprendizaje Visual se define como un método de enseñanza-aprendizaje que utiliza un conjunto de diagramas o gráficos tanto para representar información como         para trabajar con ideas y conceptos, que al utilizarlos ayudan a pensar más efectivamente.
  
@@ -53,7 +53,7 @@ Según el psiquiatra estadounidense [-William Glasser-](https://es.wikipedia.org
 ---
 
 <details>
-  <summary>Auditivo</summary> 
+ <summary>Auditivo</summary> 
  
 - Este metodo permite aprender cuando recibe las explicaciones oralmente y cuando pueden hablar y explicar
    esa información a otra persona. 
@@ -63,11 +63,11 @@ Según el psiquiatra estadounidense [-William Glasser-](https://es.wikipedia.org
 ---
 
 <details>
-  <summary>Kinestésico</summary> 
+ <summary>Kinestésico</summary>
  
 - Esta metodologia nos remite a la necesidad de las experiencias corporales sensaciones y movimientos  
  
-</details>
+ </details>
 
 ---
 
@@ -76,9 +76,6 @@ video: *[La Teoría de la Elección de Glasser](https://www.youtube.com/watch?v=
 
 
 ![Referencias según William Glasser](https://www.funax.org/fs/images/blog/Emprendimiento/Copia_de_la_distancia_3.png) 
-
-
-
 
 
 Apartir de aqui nace o se desprenden otros temas que son importantes que debemos tomar en cuenta para dirigirnos y relacionarnos **(Comunicarnos)** dentro de cualquier plataforma de internet en la que te expreses. que vamos a tocar en otro post.
@@ -152,7 +149,7 @@ const me = new Human("Daniel", "Vallejo", "43 años", "Mexicana","Node Js y Java
 console.log(me.getInfo())
 
 ```
-<hr>
+
 
 
 
