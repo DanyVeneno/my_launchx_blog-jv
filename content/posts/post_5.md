@@ -10,7 +10,7 @@ description: 'LaunchX e Innovacción Virtual | Mi experiencia del recorrido'
 
 Some years ago when i was young studing english lenguage at FES Acatlán, i learned a method to tell a story and i love it it seemed so easy to understand, the practice consisted on this way the teacher gave us some words and verbs that you can see below.
 
-
+---
 
 | . | . | . | .|
 |:----:|:--:|:--:|:--:|
@@ -19,12 +19,15 @@ Some years ago when i was young studing english lenguage at FES Acatlán, i lear
 | stand up| to live abroad |take off|got along|
 |Grow Up|Walk out|looked forward|
 
+---
 
 So  in this way we have to build a story or whatever you want to tell using them, well this practice help me to express and write a story the result of this example you can read and listen on this link[ Subjetive](https://medium.com/@danielEDJV/subjetive-be6b41105ac5)
 
  ![](https://miro.medium.com/max/700/1*smXBPhBdx9vqP9EewsLNcg.jpeg)
 
 Well but this in not the point next is:
+
+---
 
 # 🍀 THE POINT
 
@@ -38,6 +41,8 @@ Someday wondering on the web find this amazing  group of persons that gave me a 
 This experience is being so productive for me i have noticed that all that i have been learn GitHub is an excellent tool to understand the tech industry and i love it at the same time know, how to use Git another tool that really helps when you are handle web proyects.
 
 Well this is not a long story i just want to say thank you to the Missions Commander and the team behind.
+
+---
 
 # 🐢 RECAP
 
