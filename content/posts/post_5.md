@@ -5,7 +5,7 @@ description: 'LaunchX e Innovacción Virtual | Mi experiencia del recorrido'
 ---
 
 
-## :four_leaf_clover: TO BE IN CONTEXT
+## 🍀 TO BE IN CONTEXT
 
 
 Some years ago when i was young studing english lenguage at FES Acatlán, i learned a method to tell a story and i love it it seemed so easy to understand, the practice consisted on this way the teacher gave us some words and verbs that you can see below.
@@ -26,7 +26,7 @@ So  in this way we have to build a story or whatever you want to tell using them
 
 Well but this in not the point next is:
 
-# :four_leaf_clover: THE POINT
+# 🍀 THE POINT
 
 
 A true story is here
@@ -39,7 +39,7 @@ This experience is being so productive for me i have noticed that all that i hav
 
 Well this is not a long story i just want to say thank you to the Missions Commander and the team behind.
 
-# :turtle: RECAP
+# 🐢 RECAP
 
 I'm so glad to be here but this is not at all during the second week at NodeJS Mission i was in trouble because
 there is a specific rule when you are working with NodeJS
