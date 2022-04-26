@@ -48,7 +48,7 @@ Well this is not a long story i just want to say thank you to the Missions Comma
 
 I'm so glad to be here but this is not at all during the second week at NodeJS Mission i was in trouble because
 there is a specific rule when you are working with NodeJS
-and the rule is not to forget create an **.gitignore** and write the documents that not need to be uploaded, well accidents happens so i knew about this rule and i did it i upload to the GitHub repository so a classmate @MarcosSilvaG find how to fix this common beginner error that i did if you fall in the same mistake you can fix it in this link [Fix node_modules uploaded](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS/discussions/98)
+and the rule is not to forget create an **.gitignore** and write the documents that not need to be uploaded, well accidents happens so i knew about this rule and i did it i upload to the GitHub repository so a classmate @MarcosSilvaG find how to fix this common beginner error that i did if you fall in the same mistake you can fix it in this link [Fix node_modules uploaded](https://marcossilvag.github.io/my_launchx_blog/posts/delete_node_modules/)
 
 ```js
 class Human{
