@@ -1,5 +1,5 @@
 ---
-title: "To Say Tank You"
+title: "To Say Thank You"
 date: 2022-04-25
 description: 'LaunchX e Innovacción Virtual | Mi experiencia del recorrido'
 ---
