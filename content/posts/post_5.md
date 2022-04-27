@@ -12,12 +12,12 @@ Some years ago when i was young studing english lenguage at FES Acatlán, i lear
 
 ---
 
-|  - | . | . | . | . | .|
-|  - |  -|:----:|:--:|:--:|:--:|
-|  - |  -| to live abroad | Turn off | Lie Down | to fill out |
-|  . |  -| look out | looked forward | to go out | threw away |
-|  . |  -| stand up| to live abroad |take off|got along|
-|  . | - |Grow Up|Walk out|looked forward|
+| . | . | . | .|
+|:----:|:--:|:--:|:--:|
+| to live abroad | Turn off | Lie Down | to fill out |
+| look out | looked forward | to go out | threw away |
+| stand up| to live abroad |take off|got along|
+| Grow Up|Walk out|looked forward|
 
 ---
 
