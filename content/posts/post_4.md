@@ -16,14 +16,14 @@ En aquél tiempo tenia una cuenta de GitHub cuando todavia no pertenecia a Micro
 
 En la actualidad tengo un mejor perspectiva de esta gran plataforma la cual vino a ampliar mi conocimiento de cómo usarla y todo lo que te puede beneficiar si tienes el gusto por el desarrollo web se ha vuelto una herramienta infalible para toda la comunidad tech.
 
-- Crear repositorios más completos
-- Los Famosos **Pull Request**
-- **GitHub pages**
-- Lo importante de los documentos **README.md**
-- **GitHub Actions**
-- Además de poder seguir a personas que impactan en el conocimiento adquirido gracias a sus repositorios.
-- El otro lenguaje de marcado que no conocia **Markdown**
-- Crear mi propio blog dentro de la plataforma 
+1. Crear repositorios más completos
+2. Los Famosos **Pull Request**
+3. **GitHub pages**
+4. Lo importante de los documentos **README.md**
+6. **GitHub Actions**
+7. Además de poder seguir a personas que impactan en el conocimiento adquirido gracias a sus repositorios.
+8. El otro lenguaje de marcado que no conocia **Markdown**
+9. Crear mi propio blog dentro de la plataforma con gohugo
 
 Bien sin dejar de lado otra herramienta importante como lo es **Git** pero esta herramienta la comentaremos en otro post.
 
