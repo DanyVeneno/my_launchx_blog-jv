@@ -3,7 +3,7 @@ title: "Mi metodologia de aprendizaje"
 date: 2022-04-24
 description: 'LaunchX e Innovacción Virtual | Mi experiencia del recorrido'
 ---
-# 📝 Mi ruta de aprendizaje / My learning path
+# 📝 Mi ruta de aprendizaje 
 
 
 ## Elaborando 
