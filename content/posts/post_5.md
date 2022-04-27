@@ -12,14 +12,15 @@ Some years ago when i was young studing english lenguage at FES Acatlán, i lear
 
 ---
 
-| . | . | . | .|
-|:----:|:--:|:--:|:--:|
-| to live abroad | Turn off | Lie Down | to fill out |
-| look out | looked forward | to go out | threw away |
-| stand up| to live abroad |take off|got along|
-|Grow Up|Walk out|looked forward|
+|  - | . | . | . | . | .|
+|  - |  -|:----:|:--:|:--:|:--:|
+|  - |  -| to live abroad | Turn off | Lie Down | to fill out |
+|  . |  -| look out | looked forward | to go out | threw away |
+|  . |  -| stand up| to live abroad |take off|got along|
+|  . | - |Grow Up|Walk out|looked forward|
 
 ---
+
 
 So  in this way we have to build a story or whatever you want to tell using them, well this practice help me to express and write a story the result of this example you can read and listen on this link[ Subjetive](https://medium.com/@danielEDJV/subjetive-be6b41105ac5)
 
