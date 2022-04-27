@@ -9,9 +9,9 @@ menu:
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Mi nombre es Daniel tengo 43 Años 
+> Mi nombre es Daniel Vallejo tengo 43 Años 
 > Vivo en el Estado de México
-> Antes de la pandemia venia trabajando como freelance
+> Antes de la pandemia trabajaba como freelance
 > enfocado en el area de Diseño Grafico y Artes Graficas.
 
 ### Mis pasatiempos
@@ -21,7 +21,7 @@ Hola, aquí vas a leer un poco sobre mi 🤩
 - Tocar el Ukulele
 - Aprendiendo a tocar la guitarra
 - Escribir
-- Irme de Camping
+- Camping
 - Andar en Bicicleta / Bmx / Montaña
 - La fotografia
 
