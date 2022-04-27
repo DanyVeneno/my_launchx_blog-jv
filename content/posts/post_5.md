@@ -71,7 +71,9 @@ console.log(me.getInfo())
 
 ```
 
-""_until the next post, have a nice day_**
+""_see you next post, have a nice day_**
+
+**thanks for reading.**
 
 #darkmodeissomuchchido #keeponrocking #saynototintrusivemarketing
  
