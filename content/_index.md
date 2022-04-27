@@ -11,7 +11,7 @@ Te invito a conocer mis aprendizajes y leer mis experiencias.
 Mi expectativa para esta tercera etapa BackEnd son:
 
 - Ampliar más mi conocimiento respecto a las herramientas que usamos como lo son Git y GitHub
-- Además de complementar y dominar la relación que tiene el FronEnd y con el BackEnd
+- Además de complementar y dominar la relación que tiene el Frontend y con el Backend
 - Conocer a todo el Equipo de explorers que componene esta tercera etapa
 - Y por supuesto siguiendo al Guia Mission commander
 
