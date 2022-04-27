@@ -113,21 +113,21 @@ y estas las definen la experiencia adquirida atravez de los errores que cometemo
 
 Para escribir este articulo necesite los siguientes elementos:
 
-- Disposición para investigar en más de 25 sitios además de mis notas personales
-- Internet
-- Una pc
-- Alrededor de 4 horas de investigación para estructurar la  info y complementarla con mi postura
-- Un cuaderno
-- Una Pluma
-- Un Block de notas 
-- El mayor tiempo gastado en este post fue en leer
-- Un corrector ortográfico
-- Un litro de café
-- Por supuesto un banco para sentarme 
+1. Disposición para investigar en más de 25 sitios además de mis notas personales
+2. Internet
+3. Una pc
+4. Alrededor de 4 horas de investigación para estructurar la  info y complementarla con mi postura
+5. Un cuaderno
+6. Una Pluma
+7. Un Block de notas 
+8. El mayor tiempo gastado en este post fue en leer
+9. Un corrector ortográfico
+10. Un litro de café
+11. Por supuesto un banco para sentarme 
 
 
 
-  ```javascript
+```javascript
 class Human{
   constructor(name, lastName, age, nationality, stacks, greeting){
     this.name = name
@@ -145,8 +145,7 @@ class Human{
 }
 const me = new Human("Daniel", "Vallejo", "43 años", "Mexicana","Node Js y Javascript", "desde México")
 console.log(me.getInfo())
-
-                       ```
+```
 
 ---
 
