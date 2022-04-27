@@ -29,7 +29,7 @@ La pregunta es:
  - ¿Cómo me hago conciente de mi aprendizaje?
  - Finalmente es ¿Cómo valido mi personalidad ante el mundo?
 
-> Nota: *Aveces caemos en lo absurdo siempre hay que ver mas alla de lo evidente*.
+> Nota: *Aveces caemos en el absurdo, siempre hay que ver mas alla de lo evidente*.
 
 
 ##  📓  El punto
@@ -84,7 +84,7 @@ video: *[La Teoría de la Elección de Glasser](https://www.youtube.com/watch?v=
 ![Referencias según William Glasser](https://www.funax.org/fs/images/blog/Emprendimiento/Copia_de_la_distancia_3.png) 
 
 
-Apartir de aqui nace o se desprenden otros temas que son importantes que debemos tomar en cuenta para dirigirnos y relacionarnos **(Comunicarnos)** dentro de cualquier plataforma de internet en la que te expreses. que vamos a tocar en otro post.
+Apartir de aqui nace o se desprenden otros temas que son importantes que debemos tomar en cuenta para dirigirnos y relacionarnos **(Comunicarnos)** dentro de cualquier plataforma de internet en la que te expreses. 
 
 ##  🥑 Conclusión
 
@@ -114,7 +114,6 @@ y estas las definen la experiencia adquirida atravez de los errores que cometemo
 Para escribir este articulo necesite los siguientes elementos:
 
 - Disposición para investigar en más de 25 sitios además de mis notas personales
-- Me utilize a mi
 - Internet
 - Una pc
 - Alrededor de 4 horas de investigación para estructurar la  info y complementarla con mi postura
@@ -124,12 +123,8 @@ Para escribir este articulo necesite los siguientes elementos:
 - El mayor tiempo gastado en este post fue en leer
 - Un corrector ortográfico
 - Un litro de café
-- Porsupuesto un banco para sentarme 
+- Por supuesto un banco para sentarme 
 
-![GitHub followers](https://img.shields.io/github/followers/DanyVeneno?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/venenodigital?style=social)
-![Twitch Status](https://img.shields.io/twitch/status/yehiibhii?style=social)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC8UhdMAKJX56O2PY8kzBIlw?style=social)
 
 
   ```javascript
@@ -151,5 +146,13 @@ class Human{
 const me = new Human("Daniel", "Vallejo", "43 años", "Mexicana","Node Js y Javascript", "desde México")
 console.log(me.getInfo())
 
-```
+                       ```
+
+---
+
+
+![GitHub followers](https://img.shields.io/github/followers/DanyVeneno?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/venenodigital?style=social)
+![Twitch Status](https://img.shields.io/twitch/status/yehiibhii?style=social)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC8UhdMAKJX56O2PY8kzBIlw?style=social)
 
