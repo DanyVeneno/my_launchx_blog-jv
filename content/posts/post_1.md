@@ -38,7 +38,7 @@ pero tambien fue una gran experiencia y en lo personal todavia me falta para el 
 
 # BackEnd
 
-El hecho de estar hacindo este blog para mi es algo nuevo y creo que vienen cosas más chidas.
+El hecho de estar escribiendo este blog para mi es algo gratificante y creo que vienen cosas más chidas.
 
 
 # Gracias a los Mc's 
