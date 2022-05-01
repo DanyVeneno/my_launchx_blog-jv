@@ -1,5 +1,5 @@
 ---
-title: "La etimologia del codigo = alDeLasPalabras?"
+title: "La etimología del codigo = alDeLasPalabras?"
 date: 2022-04-26
 description: 'LaunchX e Innovacción Virtual | Mi experiencia del recorrido'
 ---
