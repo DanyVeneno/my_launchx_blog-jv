@@ -45,7 +45,7 @@ Finalmente este desequilibrio responde a la falta de cultura, la falta de empati
 
 # 🐝 Conclusión
 
-Nos tendriamos que preguntar que es la vida y para esto les dejo este texto de la [GAIA](https://drive.google.com/drive/folders/17l5ck1kRgJGCP8G-JB5DzJq3oJrSZYTo?usp=sharing) quizas tenga en la actualidad un poco más de sentido de como esta nuestra cultura laboral y si coincide la forma en que adquirimos recursos ¿para que? **Para Existir** ¿No sienten como que nos estamos perdiendo de algo.?
+Nos tendriamos que preguntar que es la vida y para esto les dejo este texto de la [GAIA](https://drive.google.com/drive/u/1/folders/17l5ck1kRgJGCP8G-JB5DzJq3oJrSZYTo) quizas tenga en la actualidad un poco más de sentido de como esta nuestra cultura laboral y si coincide la forma en que adquirimos recursos ¿para que? **Para Existir** ¿No sienten como que nos estamos perdiendo de algo.?
 
 >**Quizas tendriamos que empezar a priorizar 
 >como percibimos el valor,
