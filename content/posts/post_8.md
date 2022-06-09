@@ -19,11 +19,11 @@ Haciedo referencia a como somos :
 
 | ¿Cómo Somos? | Transición | Como debemos ser |
 | -- | -- | -- |
-|Genericos | :arrow_right: | Especificos |
-| Intangibles | :arrow_right: | Tangibles |
-| Reactivos | :arrow_right: | Proactivos |
-| No tenemos metas | :arrow_right: | Tener metas |
-| No medimos | :arrow_right: | Medir |
+|Genericos | ➡️ | Especificos |
+| Intangibles | ➡️ | Tangibles |
+| Reactivos | ➡️ | Proactivos |
+| No tenemos metas | ➡️ | Tener metas |
+| No medimos | ➡️ | Medir |
 
 
 
