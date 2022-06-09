@@ -8,12 +8,12 @@ description: 'LaunchX e Innovacción Virtual | Mi experiencia del recorrido'
 
 
 
-# :monkey: Elaborando
+# 🐵 Elaborando
 
 Hace algunos años tuve la oportunidad de dar mi primer taller en una empresa en la cual estaban en via de transformación hacia lo digital era el encargado de promover una nueva cultura operativa y prepararlos para la adopción de herramientas tecnológicas para integrarse a la cultura interna digital. Desafortunadamente las barreras mentales hicieron lo suyo y no los culpo pero en un pais en donde todavía es considerado pais del tercer mundo no es raro encontrar personas que no tienen el interés por leer y así paso no les gustaba leer y su visión hacia el futuro era muy corta pero bueno a la pregunta a la que quiero llegar es esta ¿Cómo Somos?, a que le atribuimos un valor el cual nos genere una reacción hacia el actuar.
 
 
-# :crystal_ball: El punto
+# 🔮 El punto
 
 Haciedo referencia a como somos :
 
@@ -65,7 +65,7 @@ El habla es el medio que nos conecta con los demás seres vivos.
 <br>
 <br>
 
-# :honeybee: Conclusión
+# 🐝 Conclusión
 
 
 > "No es la conciencia del hombre la 
