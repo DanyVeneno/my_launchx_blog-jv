@@ -20,7 +20,7 @@ Descubri **La Rueda de la vida** ¿A que se refiere la rueda de la vida?, bien p
 
 ### La rueda de la vida
 
-![La rueda de la vida](https://scontent.fmex1-2.fna.fbcdn.net/v/t39.30808-6/281170134_2387899301364216_7474442536960247598_n.jpg?stp=dst-jpg_p526x296&_nc_cat=111&ccb=1-6&_nc_sid=730e14&_nc_ohc=qaMnL5eWw2wAX8pZmxk&tn=Wj0a3tHJNDJQOmOV&_nc_ht=scontent.fmex1-2.fna&oh=00_AT8LqDUbHFOkMtoBLEohNuXYjLjJFJpJ7UYMwOmKV00yRQ&oe=6283887E)
+![La rueda de la vida]()
 
 
 Se dice que  es una herramienta visual en la cual podemos reflejar y darnos cuenta que tanto tiempo en el transcurso del dia le dedicamos a cada una de estas areas
